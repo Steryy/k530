@@ -3,7 +3,7 @@
 K530
 
 
-Config files for K530 for [SonixQMK](https://github.com/SonixQMK) for development branch.
+Config files for K530 for [SonixQMK](https://github.com/SonixQMK/qmk_firmware) for development branch.
 To install, follow instructions on [https://sonixqmk.github.io//SonixDocs/install/](https://sonixqmk.github.io//SonixDocs/install/)
 to point 2.1.
 
